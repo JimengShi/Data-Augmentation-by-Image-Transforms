@@ -23,7 +23,7 @@
                                                                                                                                        
 ## 4. Padding                                                                                                                                   
 <div align="center">
-<img src="https://github.com/JimengShi/Image-Data-Augmentation-with-Transform/blob/master/image/4_Padding.gif" width="500px alt="Crop" >
+<img src="https://github.com/JimengShi/Image-Data-Augmentation-with-Transform/blob/master/image/4_Padding.gif" width="530px alt="Crop" >
 </div>
                                                                                                                                        
                                                                                                                                        
@@ -35,11 +35,11 @@
                                                                                                                                        
 ## 6. Affine                                                                                                                                   
 <div align="center">
-<img src="https://github.com/JimengShi/Image-Data-Augmentation-with-Transform/blob/master/image/6_Affine.gif" width="500px alt="Crop" >
+<img src="https://github.com/JimengShi/Image-Data-Augmentation-with-Transform/blob/master/image/6_Affine.gif" width="530px alt="Crop" >
 </div>
                                                                                                                                      
                                                                                                                                      
 ## 7. Erasing                                                                                                                                   
 <div align="center">
-<img src="https://github.com/JimengShi/Image-Data-Augmentation-with-Transform/blob/master/image/7_Erasing.gif" width="500px alt="Crop" >
+<img src="https://github.com/JimengShi/Image-Data-Augmentation-with-Transform/blob/master/image/7_Erasing.gif" width="530px alt="Crop" >
 </div>
