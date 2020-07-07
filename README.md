@@ -5,5 +5,5 @@
 </div>
 
 <div align="center">
-<img src="https://github.com/JimengShi/Image-Data-Augmentation-with-Transform/blob/master/image/original.png" alt="original" >
+<img src="https://github.com/JimengShi/Image-Data-Augmentation-with-Transform/blob/master/image/Crop.gif" alt="Crop" >
 </div>
