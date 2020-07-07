@@ -1,7 +1,7 @@
 # Image-Data-Augmentation-with-Transform
 
 <div align="center">
-<img src="https://github.com/JimengShi/Image-Data-Augmentation-with-Transform/blob/master/image/Overview.png" width="400px alt="Overview" >
+<img src="https://github.com/JimengShi/Image-Data-Augmentation-with-Transform/blob/master/image/Overview.png" width="500px alt="Overview" >
 </div>
 
 <div align="center">
