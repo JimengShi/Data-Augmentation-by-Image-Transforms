@@ -53,3 +53,11 @@ A summary of image transform is done with Pytorch, which implements data augment
 - Window 10
 - Pytorch 1.5.0
 - Pycharm 2.0 where run the `.py` file above
+
+
+## Reference
+[1] https://pytorch.org/docs/stable/torchvision/transforms.html
+
+[2] https://www.aaai.org/Papers/AAAI/2020GB/AAAI-ZhongZ.1572.pdf
+
+[3] https://ai.deepshare.net/detail/v_5e8707d4463fe_1p3ZGZ6S/3?from=p_5e86b471126bf_lA4VfCUm&type=6
