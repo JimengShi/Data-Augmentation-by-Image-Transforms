@@ -1,10 +1,11 @@
 # Image-Data-Augmentation-with-Transform
-A summary of image transform is done with Pytorch, which implements data augmentation to improve generalization ability of model. Check out the overview first and the corresponding results as belows:
+A summary of image transform is done with Pytorch, which implements data augmentation to improve generalization ability of model. In this repository, some RMB images are used to be transformed. Please check out the overview first and then the corresponding results as belows:
 
 <div align="center">
 <img src="https://github.com/JimengShi/Image-Data-Augmentation-with-Transform/blob/master/image/Overview.png" width="500px alt="Overview" >
 </div>
-                                                                                                                                         
+
+
 ## 1. Crop
 <div align="center">
 <img src="https://github.com/JimengShi/Image-Data-Augmentation-with-Transform/blob/master/image/1_Crop.gif" width="400px alt="Crop" >
@@ -21,7 +22,8 @@ A summary of image transform is done with Pytorch, which implements data augment
 <div align="center">
 <img src="https://github.com/JimengShi/Image-Data-Augmentation-with-Transform/blob/master/image/3_Rotation.gif" width="400px alt="Crop" >
 </div>
-                                                                                                                                       
+
+
 ## 4. Padding                                                                                                                                   
 <div align="center">
 <img src="https://github.com/JimengShi/Image-Data-Augmentation-with-Transform/blob/master/image/4_Padding.gif" width="550px alt="Crop" >
@@ -44,7 +46,8 @@ A summary of image transform is done with Pytorch, which implements data augment
 <div align="center">
 <img src="https://github.com/JimengShi/Image-Data-Augmentation-with-Transform/blob/master/image/7_Erasing.gif" width="550px alt="Crop" >
 </div>
-                                                                                                                                      
+
+
 ## How to Run                                                                                                                                      
 **Environment:**
 - Window 10
