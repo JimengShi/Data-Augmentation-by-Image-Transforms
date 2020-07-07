@@ -1,4 +1,5 @@
 # Image-Data-Augmentation-with-Transform
+A summary of image transform is done with Pytorch, which implements data augmentation to improve generalization ability of model. Check out the overview first and the corresponding results as belows:
 
 <div align="center">
 <img src="https://github.com/JimengShi/Image-Data-Augmentation-with-Transform/blob/master/image/Overview.png" width="500px alt="Overview" >
@@ -43,3 +44,9 @@
 <div align="center">
 <img src="https://github.com/JimengShi/Image-Data-Augmentation-with-Transform/blob/master/image/7_Erasing.gif" width="550px alt="Crop" >
 </div>
+                                                                                                                                      
+## How to Run                                                                                                                                      
+**Environment:**
+- Window 10
+- Pytorch 1.5.0
+- Pycharm 2.0 where run the `.py` file above
