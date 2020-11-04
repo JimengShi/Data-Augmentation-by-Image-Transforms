@@ -36,7 +36,7 @@ A summary of image transform is done with Pytorch, which implements data augment
 </div>
                                                                                                                                        
                                                                                                                                        
-## 6. Affine                                                                                                                                   
+## 6. Affine Transformation                                                                                                                                   
 <div align="center">
 <img src="https://github.com/JimengShi/Image-Data-Augmentation-with-Transform/blob/master/image/6_Affine.gif" width="550px alt="Crop" >
 </div>
